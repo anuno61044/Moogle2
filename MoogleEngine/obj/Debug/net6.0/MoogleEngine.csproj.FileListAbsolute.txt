@@ -1,0 +1,24 @@
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb

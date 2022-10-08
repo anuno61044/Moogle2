@@ -1,0 +1,60 @@
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/freedo/Documentos/moogle 2.0/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/freedo/Documentos/Programing/Proyectos/Moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
